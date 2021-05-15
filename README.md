@@ -1,2 +1,2 @@
 # Quantitative-ideas-in-Finance-and-ML
-Personal Projects to explore ideas used in Quant Finance and Machine Learning
+This repository contains my personal projects focusing on models used in quantitative finance mainly derivative pricing and machine learning.
